@@ -90,5 +90,3 @@ Hi! I'm **Dennis Joseph**, a passionate **Frontend Developer** based in Kerala, 
 ---
 
 **Thank you for visiting my profile! Feel free to explore my projects and reach out if you'd like to collaborate!** 🚀
-
-![Profile Views](https://komarev.com/ghpvc/?username=dennisjoseph2025-dotcom)
