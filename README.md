@@ -30,12 +30,15 @@ Hi! I'm **Dennis Joseph**, a passionate **Frontend Developer** from Kerala, Indi
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>Tailwind</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65"/><br>Python</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=django" width="48"/><br>Django</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="62"/><br>Prettier</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png" width="48"/><br>NPM</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="65"/><br>GitHub</td>
     <td align="center"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48"/><br>Git</td>
   </tr>
   <tr>
+    
   </tr>
 </table>
 
